@@ -1,5 +1,4 @@
-without further ado, let me list all these patterns:
-
+Algorithms List:
 1) Sliding Window
 2) Islands (Matrix Traversal)
 3) Two Pointers
